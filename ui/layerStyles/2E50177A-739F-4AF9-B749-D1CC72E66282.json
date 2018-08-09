@@ -1,0 +1,13 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "2E50177A-739F-4AF9-B749-D1CC72E66282",
+  "name": "regular",
+  "value": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "2E50177A-739F-4AF9-B749-D1CC72E66282",
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
